@@ -1,0 +1,77 @@
+* {
+  padding-top: 0;
+  margin-top: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background-color: whitesmoke;
+}
+
+.second-background {
+  width: fit-content;
+  margin-left: 300px;
+  margin-right: 300px;
+  background-color: rgba(189, 97, 97, 0.332);
+}
+
+.main-container {
+  text-align: center;
+}
+
+.header {
+  text-align: center;
+  padding-top: 10px;
+  text-decoration: underline;
+  font-size: 25px;
+}
+
+.links-for-pages {
+  display: flex;
+
+  justify-content: center;
+}
+h2 {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+ul {
+  margin-left: 300px;
+  margin-right: 300px;
+  padding-left: auto;
+  padding-right: auto;
+}
+
+.main-text {
+  display: flex;
+  margin-left: 300px;
+  margin-right: 300px;
+  display: block;
+  margin-bottom: 80px;
+}
+
+.toggle-btn {
+  display: flex;
+  justify-content: flex-end;
+  font-size: 1.3rem;
+}
+
+.Ingredients {
+  margin-left: 300px;
+  margin-right: 300px;
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  text-decoration: underline;
+}
+
+.index-background {
+  background-color: rgba(128, 0, 0, 0.322);
+  text-align: center;
+  width: 100%;
+}
+.index-links {
+  list-style: none;
+}
